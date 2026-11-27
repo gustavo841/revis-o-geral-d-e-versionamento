@@ -22,7 +22,8 @@ João e Maria estão no mesmo projeto. João alterou o arquivo
 estilo.css e executou git push .
 Maria vai começar a trabalhar agora no computador dela. Qual comando Maria deve rodar
 antes de mexer no código para não gerar conflitos? Explique o porquê. 
-git pull
+
+git pull, ele faz com que a versão que o João colocou no repositorio passe pro computador da Maria e ela possa mexer no codigo 
 
 Questão 4 — Boas Práticas de Commit
 Escreva dois exemplos de mensagens de commit ruins (vagas) e transforme cada uma em uma
