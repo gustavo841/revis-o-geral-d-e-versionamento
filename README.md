@@ -28,5 +28,7 @@ Questão 4 — Boas Práticas de Commit
 Escreva dois exemplos de mensagens de commit ruins (vagas) e transforme cada uma em uma
 mensagem de commit profissional. (Ex: Ruim: "arrumei" → Boa: "Corrige alinhamento do menu no
 celular"). 
+
 rumei aquele erro la - Corrigido o erro 404 de pagina não encontrada
+
 adicionei o botão - adicionado o botão que faltava no site para que ele funcione corretamente
